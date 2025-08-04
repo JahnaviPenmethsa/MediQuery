@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Features
+##  Features
 - Uses **IBM Granite LLM** (`granite-3-3-8b-instruct`) for natural language understanding.
 - Integrated **RAG** to fetch information from verified medical PDFs.
 - Real-time information retrieval from trusted health sources.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **IBM Cloud Lite Services**
 - **IBM Granite Foundation Model**
 - **RAG (Retrieval-Augmented Generation)**
@@ -24,7 +24,7 @@
 
 ---
 
-## 📂 Project Workflow
+##  Project Workflow
 1. **Project Definition & Setup** – Defining MediQuery’s purpose and scope.
 2. **Model Selection** – Choosing `granite-3-3-8b-instruct` for the AI core.
 3. **Knowledge Base Upload** – Adding WHO and government health PDFs.
@@ -35,8 +35,6 @@
 8. **Agent Deployment** – Saving and finalizing MediQuery for ongoing use.
 
 ---
-
-## 🚀 Getting Started
 
 ### Prerequisites
 - IBM Cloud account with access to **Watson Discovery** and **Granite Models**.
